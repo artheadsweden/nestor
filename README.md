@@ -1,4 +1,7 @@
 # Nestor Programming Language
+
+![](nestor.png)
+
 ## Introduction
 Nestor is a general-purpose programming language designed with simplicity, expressiveness, and performance in mind. Drawing inspiration from the clean and elegant syntax of Python, Nestor aims to provide a user-friendly language that is easy to learn and fun to use, while incorporating powerful features from other programming paradigms, such as functional programming and concurrency.
 

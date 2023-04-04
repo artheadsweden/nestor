@@ -605,7 +605,7 @@ hashed = passw.hash() # hash the password
 print(passw.validate(hashed)) # True
 ```
 
-Passowrds can also be validated against a list of common passwords:
+Passwords can also be validated against a list of common passwords:
 
 ```python
 passw: password = "password"

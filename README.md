@@ -591,10 +591,10 @@ c: Color = Color.RED
 
 ```python
 e1: email = "john@email.com"
-print(e.is_valid()) # True
+print(e1.is_valid()) # True
 
 e2: email = "john"
-print(e.is_valid()) # False
+print(e2.is_valid()) # False
 ```
 
 **password**: The password type is used to store passwords. The password type is a subtype of the string type, and can be used anywhere a string is expected. The password type provides built-in validation and utility functions.

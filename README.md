@@ -257,7 +257,7 @@ values.sort(reverse=true) # [5, 4, 0]
 values.clear()        # []
 ```
 
-**Immotable Lists**: In Nestor, immutable lists are represented using the list type. An immutable list is essentaily a immutable fixed-length array. Nestor provides the list type for representing immutable lists.
+**Immutable Lists**: In Nestor, immutable lists are represented using the list type. An immutable list is essentaily a immutable fixed-length array. Nestor provides the list type for representing immutable lists.
 
 ```python
 values: [int] = [1, 2, 3] # immutable list of int, explicit type

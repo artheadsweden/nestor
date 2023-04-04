@@ -1450,7 +1450,7 @@ The order of precedence in rule-based function dispatchers is as follows:
  3. The order in which the arguments are specified in the conditional expression.
 
  ### Return Values
-The return values from the methods that were executed during the invocation of the dispatcher are stored in a result object. The result object can be accessed using the value property. The result object also contains a list of the methods that were executed during the invocation.
+The return values from the functions that were executed during the invocation of the dispatcher are stored in a result object. The result object can be accessed using the value property. The result object also contains a list of the methods that were executed during the invocation.
     
 ```python
 result = example_dispatcher(arg1, arg2)

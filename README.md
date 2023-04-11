@@ -966,9 +966,9 @@ loop i = 10:
     loop j = 5:
         # code block, executed for each combination of i and j
         if i == 5:
-            break i
+            break
         if j == 3:
-            continue j
+            continue
 ```
     
 ```python
